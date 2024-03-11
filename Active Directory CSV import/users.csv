@@ -1,0 +1,3 @@
+﻿lastname,firstname,username,employeeID,email,cellphone,password,department,jobtitle,ou
+Surname,Jack,JackSurname,310,JackSurname@polarityte.com,,PolarityTE310,Manufacturing & Production,Manufacturing & Production Specialist,"OU=Manufacturing,OU=Users,OU=SLC,DC=ad,DC=polarityte,DC=com"
+Surname2,Caitlin,CaitlinSurnametwo,312,CaitlinSurname2@polarityte.com,,PolarityTE312,Human Resources,Senior Human Resources Generalist,"OU=Sales,OU=Corporate Ops,OU=Users,OU=SLC,DC=ad,DC=polarityte,DC=com"
